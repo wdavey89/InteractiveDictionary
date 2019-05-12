@@ -1,0 +1,1 @@
+This project was created based on a Udemy Course called "The Python Mesage Course: Build 10 Real World Applications" by Ardit Sulce
